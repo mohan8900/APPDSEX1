@@ -1,8 +1,8 @@
 # APPDSEX1
 Implementing Data Preprocessing and Data Analysis
 
-### NAME : BARATHRAJ B
-### REG NO : 212222230019
+### NAME : A K MOHAN RAJ
+### REG NO : 212221230064
 
 ## AIM:
 To implement Data analysis and data preprocessing using a data set
